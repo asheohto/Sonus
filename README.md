@@ -1,4 +1,4 @@
-<div align="center">
+<img width="866" height="122" alt="image" src="https://github.com/user-attachments/assets/1270b175-9aa6-496d-9e06-e70c59906b6e" /><div align="center">
 
 # 🎙️ Sonus
 [![GitHub release](https://img.shields.io/github/v/release/asheohto/Sonus?style=for-the-badge)](https://github.com/asheohto/Sonus/releases)
@@ -64,8 +64,10 @@ You can get the latest version directly from the **[Releases Page](https://githu
 
     On the first run, it asks if you want to run automatically on startup. Click "Yes" and you're done.
 
-## 💜Acknowledgments
+## Notes!
+If the program fails to run during startup, makes sure that Sonus.exe is enabled in Startup Apps.
+<img width="866" height="122" alt="image" src="https://github.com/user-attachments/assets/8e1f647b-883e-40c6-aa53-48b438da99f8" />
 
-* **Vibe Coded**
 
-    This project was built with **AI Assistance**. I provided the logic and the frustration; Gemini 3 wrote the powershell code!
+>### 💜Acknowledgments
+> This project was built with **AI Assistance**. I provided the logic and the frustration; Gemini 3 wrote the powershell code!
