@@ -23,6 +23,13 @@
 > **Third-Party Software**
 >
 > This project utilizes **SoundVolumeView** by NirSoft. It is a freeware utility used here in accordance with its license rights for redistribution. NirSoft is not affiliated with this project.
+# 🔊 Sonus
+
+**Tired of the clutter?**
+
+You likely installed SteelSeries Sonar for the microphone features (ClearCast AI), not to have your Windows sound settings flooded with "Gaming," "Chat," "Media," and "Aux" channels.
+
+Sonus solves this simple problem. It automatically disables the virtual playback devices you don't use, while keeping the microphone driver fully functional.
 
 ## 📥 Download
 
@@ -34,13 +41,6 @@ You can get the latest version directly from the **[Releases Page](https://githu
 3.  Run **`Sonus.exe`**.
 4.  On the first run, click **Yes** to enable Auto-Startup.
 
-# 🔊 Sonus
-
-**Tired of the clutter?**
-
-You likely installed SteelSeries Sonar for the microphone features (ClearCast AI), not to have your Windows sound settings flooded with "Gaming," "Chat," "Media," and "Aux" channels.
-
-Sonus solves this simple problem. It automatically disables the virtual playback devices you don't use, while keeping the microphone driver fully functional.
 
 ## Features
 <div align="center">
