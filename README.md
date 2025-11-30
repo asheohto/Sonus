@@ -1,4 +1,5 @@
 <div align="center">
+    
 # 🎙️ Sonus
 [![GitHub release](https://img.shields.io/github/v/release/asheohto/Sonus?style=for-the-badge)](https://github.com/asheohto/Sonus/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/asheohto/Sonus/total?style=for-the-badge)](https://github.com/asheohto/Sonus/releases)
