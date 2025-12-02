@@ -36,7 +36,7 @@ Sonus solves this simple problem. It automatically disables the virtual playback
 You can get the latest version directly from the **[Releases Page](https://github.com/asheohto/Sonus/releases/latest)**.
 
 ### 🪟 Windows 10 / 11
-1.  Download **`Sonus_v1.0.zip`**.
+1.  Download the latest release.
 2.  **Extract** the folder to a safe place (like your Documents or `C:\Program Files\`).
 3.  Run **`Sonus.exe`**.
 4.  On the first run, click **Yes** to enable Auto-Startup.
