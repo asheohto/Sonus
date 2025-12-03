@@ -39,7 +39,7 @@ You can get the latest version directly from the **[Releases Page](https://githu
 1.  Download the latest release.
 2.  **Extract** the folder to a safe place (like your Documents or `C:\Program Files\`).
 3.  Run **`Sonus.exe`**.
-4.  On the first run, click **Yes** to enable Auto-Startup.
+4.  On the first run Skylar will pop up, asking you if you want Sonus to run on startup. 
 
 
 ## Features
@@ -60,7 +60,7 @@ You can get the latest version directly from the **[Releases Page](https://githu
 
     Runs quietly in the background (System Tray). No windows, no pop-ups, no distractions.
 
-* **Friendly Setup**
+* **?? Skylar**
 
     Features Skylar to guide you through the one-click startup process.
 
